@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 
-    cout<<"asdf";
+    cout<<"hello";
+    cout<<"plus";
     return 0;
 }

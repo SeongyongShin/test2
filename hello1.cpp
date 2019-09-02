@@ -4,5 +4,6 @@ int main(){
 
     cout<<"hello";
     cout<<"plusq";
+    cout<<"hi";
     return 0;
 }
